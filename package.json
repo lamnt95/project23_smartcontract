@@ -1,0 +1,19 @@
+{
+  "name": "project23_smartcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamnt95/project23_smartcontract.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamnt95/project23_smartcontract/issues"
+  },
+  "homepage": "https://github.com/lamnt95/project23_smartcontract#readme"
+}
